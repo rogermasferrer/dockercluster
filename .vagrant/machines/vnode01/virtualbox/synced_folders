@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/host":{"guestpath":"/home/host","hostpath":"F:/Users/roger/vagrant-data/dockercluster/vnode01","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/Users/roger/vagrant-data/dockercluster","disabled":false,"__vagrantfile":true}}}
